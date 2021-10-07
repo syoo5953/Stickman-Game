@@ -1,0 +1,7 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÐÈÑÂÿÿÿÿÿ
+Zsquid:UselessImportCheck"1Remove this unused import 'java.util.Collection'.(¹ÉÐšùÿÿÿÿ
+ysquid:S4087"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(¦ÈøÉ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(û¯œç

@@ -1,0 +1,22 @@
+
+V
+squid:S1066"9Replace this use of System.out or System.err by a logger.(È÷’8Æ¤Ïâ-
+U
+squid:S106+"9Replace this use of System.out or System.err by a logger.(´­ÏO8Æ¤Ïâ-
+ksquid:UselessImportCheck"ARemove this unused import 'stickman.model.engine.EngineProvider'.(ÊŞn8¶¼¸Ñâ-
+V
+squid:S106,"9Replace this use of System.out or System.err by a logger.(Ï¸¬û8Æ¤Ïâ-
+~squid:UselessImportCheck	"TRemove this unnecessary import: same package classes are always implicitly imported.(ÉÛç08™•ØĞâ-
+V
+squid:S106;"9Replace this use of System.out or System.err by a logger.(ÜÍÅ8Æ¤Ïâ-
+[
+squid:S1060"9Replace this use of System.out or System.err by a logger.(—Ô€Œüÿÿÿÿ8Æ¤Ïâ-
+„squid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(Ä¾Ûùÿÿÿÿ8™•ØĞâ-
+squid:UselessImportCheck
+"TRemove this unnecessary import: same package classes are always implicitly imported.(‚«ã¶8™•ØĞâ-
+V
+squid:S1062"9Replace this use of System.out or System.err by a logger.(ğéó¹8Æ¤Ïâ-
+V
+squid:S1061"9Replace this use of System.out or System.err by a logger.(Ö´Åª8Æ¤Ïâ-
+[
+squid:S106:"9Replace this use of System.out or System.err by a logger.(È¶š•üÿÿÿÿ8Æ¤Ïâ-

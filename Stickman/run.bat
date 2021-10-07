@@ -1,0 +1,2 @@
+gradle run
+cmd /k

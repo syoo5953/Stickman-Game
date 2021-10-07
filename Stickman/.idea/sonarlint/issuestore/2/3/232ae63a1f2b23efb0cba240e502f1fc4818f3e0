@@ -1,0 +1,8 @@
+
+~squid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(ÉÛç08ò¿¤Ïâ-
+_squid:UselessImportCheck
+"/Remove this unused import 'java.time.Duration'.(ëá¯‰üÿÿÿÿ8‹ß¤Ïâ-
+esquid:UselessImportCheck":Remove this unused import 'stickman.config.LevelSettings'.(ı¾¥Ğ8ò¿¤Ïâ-
+„squid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(Ä¾Ûùÿÿÿÿ8…ØĞâ-
+^squid:UselessImportCheck".Remove this unused import 'java.time.Instant'.(Â‚éñÿÿÿÿÿ8‹ß¤Ïâ-
+hsquid:UselessImportCheck"=Remove this unused import 'stickman.model.engine.GameEngine'.(°Ç•ø8ÎˆÓâ-

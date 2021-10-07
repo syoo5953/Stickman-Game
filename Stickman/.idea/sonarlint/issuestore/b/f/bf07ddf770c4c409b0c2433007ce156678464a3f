@@ -1,0 +1,6 @@
+
+osquid:S1450"SRemove the "pane" field and declare it as a local variable in the relevant methods.(€ÉêØÿÿÿÿÿ
+hsquid:UselessImportCheck"=Remove this unused import 'stickman.model.engine.GameEngine'.(°Ç•ø8ŞÓ…Ïâ-
+isquid:S1450"RRemove the "sky" field and declare it as a local variable in the relevant methods.(œä‰
+[squid:S1854"?Remove this useless assignment to local variable "floorHeight".(û²ôÿÿÿÿÿ
+Lsquid:S1481"0Remove this unused "floorHeight" local variable.(û²ôÿÿÿÿÿ

@@ -1,0 +1,8 @@
+
+O
+squid:S106""9Replace this use of System.out or System.err by a logger.(İúÊÌ
+Qsquid:S2864ˆ"4Iterate over the "entrySet" instead of the "keySet".(¸Ê÷ßüÿÿÿÿ
+Ksquid:S2864q"4Iterate over the "entrySet" instead of the "keySet".(ıÀöä
+Rsquid:S2864Z"4Iterate over the "entrySet" instead of the "keySet".(î÷—ş8¯ê½¿â-
+O
+squid:S106#"9Replace this use of System.out or System.err by a logger.(¾³¹ô
